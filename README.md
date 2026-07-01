@@ -9,6 +9,8 @@ Practiced problems on HackerRank.
 
 This project helped me to improve my understanding of logic building.
 
+----------------------------------------------------------------------------------------
+
 🔍 How the game works:
 
 ▶️ After running the program, the user enters a number shown on the screen.
@@ -24,5 +26,7 @@ This project helped me to improve my understanding of logic building.
 🔁 The game then asks if the user wants to play again.
 
 ❌ If the user selects No, the game ends.
+
+----------------------------------------------------------------------------------------
 
 A simple and fun project to understand logic, conditions, and randomness in programming!
